@@ -1,7 +1,7 @@
 The Code Manifesto
 ==================
 
-This is an extension of the [Code Manifesto](http://codemanifesto.com/) that we follow at the UCF Blackstone Launchpad. 
+This is an extension of the [Code Manifesto](http://codemanifesto.com/) that we follow at the [UCF Blackstone Launchpad.](http://ucf.thelaunchpad.org/)
 
 We want to create an ecosystem that promotes collaboration and empowers starters to reach and exceed their potential. A safe haven for anyone to breathe life into their ideas. Often young entrepreneur lack direction and ask the question: Does my idea make sense? Is my idea right or wrong? We want to equip them with the tools with which they can give themselves permission to work on anything they want and answer those tough questions concretely. 
 
@@ -24,11 +24,14 @@ In an effort to create such a place and the associated culture, we hold to the f
 
 7. **Be a mentor.** Share what you know. Make yourself a resource to help those that come after you because you learn the most when you teach and it's also the fastest way to find your own short-comings. 
 
-8. **Talk is cheap. Show me the prototype** Once you have an idea, write it down, and try to come up with some tangible representation of it. This can be a mockup/wireframe on paper or better yet on the computer and doesn't need to be high quality. Just imagine it as a prop when you pitch your idea. 
+8. **Talk is cheap. Show me the prototype.** Once you have an idea, write it down, and try to come up with some tangible representation of it. This can be a mockup/wireframe on paper or better yet on the computer and doesn't need to be high quality. Just imagine it as a prop when you pitch your idea. 
 
 9. **Start somewhere.** You don't have to build the next big multi-million dollar company, just follow your passions and see where they lead you, start small but start something. Don't spend all your time thinking about consequences of what might happen. That question kills ideas, do it and figure out what happens, you might be pleasantly surprised.
 
 10. **Stay Hungry. Stay Foolish.** Never stop thinking about your ideas and find every chance you can to get feedback on it. Pitch early and pitch often to anyone. There is a general co-relation between the simpler the idea, the more elegant it is and as a consequence of it, the more promising the product. 
+
+[8] A reference to a quote from Linus, originally it was, "Talk is cheap. Show me the code"
+
 
 How to contribute
 =================
