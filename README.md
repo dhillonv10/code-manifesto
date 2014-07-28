@@ -1,7 +1,7 @@
 The Code Manifesto
 ==================
 
-This is an extension of the Code Manifesto that we follow at the UCF Blackstone Launchpad. 
+This is an extension of the [Code Manifesto](http://codemanifesto.com/) that we follow at the UCF Blackstone Launchpad. 
 
 We want to create an ecosystem that promotes collaboration and empowers starters to reach and exceed their potential. A safe haven for anyone to breathe life into their ideas. Often young entrepreneur lack direction and ask the question: Does my idea make sense? Is my idea right or wrong? We want to equip them with the tools with which they can give themselves permission to work on anything they want and answer those tough questions concretely. 
 
@@ -10,7 +10,7 @@ Creating such an environment requires a change in mindset and culture which bene
 
 In an effort to create such a place and the associated culture, we hold to the following values:
 
-1. ** Accept failure.** Entrepreneur often experience failure. Accept it, learn from it and move on. Positive, lasting change only comes from examination, discussion, and iteration.
+1. **Accept failure.** Entrepreneur often experience failure. Accept it, learn from it and move on. Positive, lasting change only comes from examination, discussion, and iteration.
 
 2. **Discrimination limits us.** This includes discrimination on the basis of race, gender, sexual orientation, nationality, domain of study and any other arbitrary exclusion of a group of people.
 
