@@ -1,7 +1,7 @@
 The Code Manifesto
 ==================
 
-This is an extension of the [Code Manifesto](http://codemanifesto.com/) that we follow at the [UCF Blackstone Launchpad.](http://ucf.thelaunchpad.org/)
+This is an extension of the [Code Manifesto](http://codemanifesto.com/) that we follow at the [UCF Starters.](http://ucfstarters.org/)
 
 We want to create an ecosystem that promotes collaboration and empowers starters to reach and exceed their potential. A safe haven for anyone to breathe life into their ideas. Often young entrepreneur lack direction and ask the question: Does my idea make sense? Is my idea right or wrong? We want to equip them with the tools with which they can give themselves permission to work on anything they want and answer those tough questions concretely. 
 
@@ -39,3 +39,8 @@ How to contribute
 This is a collaborative effort therefore we welcome all contributions submitted as pull requests.
 
 (Contributions on wording & style are also welcome)
+
+Disclosure
+===========
+
+The views and opinions expressed here do not necessarily represent those of my employers. 
